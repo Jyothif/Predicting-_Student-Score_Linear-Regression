@@ -1,7 +1,7 @@
 # Student score Project  Overview
 This repository is demonstration of Student score prediction based on the number of study hours.
 
-The main aim of this project is to prove the possibility of training and modeling a small dataset size and the feasibility of creating a prediction model with credible accuracy rate. This research explores as well the possibility of identifying the key indicators in the small dataset, which will be utilized in creating the prediction model, using visualization and clustering algorithms. Best indicators were fed into multiple machine learning algorithms to evaluate them for the most accurate model.
+The main aim of this project is to prove the possibility of training and modeling a small dataset size and the feasibility of creating a prediction model with credible accuracy rate. This explores as well the possibility of identifying the key indicators in the small dataset,Linear Regression machine learning algorithm to evaluate them for the most accurate model.
   
  # code and resources
  
@@ -18,6 +18,7 @@ The main aim of this project is to prove the possibility of training and modelin
  
  # EDA
  **By using matplotlib plotted the data points as below**
+ * This plotting is depicting the datapoints and their accuracy of the model.
  
  ![](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression/blob/main/images/Student%20score.png)
  
