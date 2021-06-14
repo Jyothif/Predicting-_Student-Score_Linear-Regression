@@ -31,6 +31,6 @@ The main aim of this project is to prove the possibility of training and modelin
  
  * Model perfomrance can be detected considering the model evaluation metrics
  
-`MAE: 4.183859899002975`
-`MSE : 21.598769307217406`
-`RMAE : 4.647447612100367`
+- `MAE: 4.183859899002975`
+- `MSE : 21.598769307217406`
+- `RMAE : 4.647447612100367`
